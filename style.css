@@ -1,0 +1,27 @@
+#img1 {
+width:250px;
+}
+body {
+text-align:center;
+background:linear-gradient(springgreen 0%, dodgerblue 100%);
+}
+
+.all {
+list-style:none;
+z-index:10;
+position:absolute;
+top:10px;
+right:30px;
+cursor:pointer;
+}
+.links {
+color:#fff;
+float:left;
+padding-top:5px;
+padding-left:9px;
+padding-right: 9px;
+padding-bottom:5px;
+}
+.links:hover{
+background-color:orange;
+}
